@@ -1,5 +1,9 @@
+
+# cutensticky
+
+### Installation
 Place sticky folder into your plugins folder.
 
-Usage
+### Usage
 Command: `Sticky`
 Keybind: `CtrlSpace`
